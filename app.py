@@ -7,8 +7,7 @@ import sklearn
 import joblib
 import streamlit as st
 
-st.write("scikit-learn:", sklearn.__version__)
-st.write("joblib:", joblib.__version__)
+
 # -----------------------------
 # Page Configuration
 # -----------------------------
